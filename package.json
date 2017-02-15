@@ -1,0 +1,27 @@
+{
+  "name": "run-generator",
+  "version": "1.0.0",
+  "description": "generator async control flow",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/purelanren/run-generator.git"
+  },
+  "keywords": [
+    "async",
+    "generator",
+    "promise"
+  ],
+  "author": "purelanren@qq.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/purelanren/run-generator/issues"
+  },
+  "homepage": "https://github.com/purelanren/run-generator#readme",
+  "devDependencies": {
+    "babel-register": "^6.23.0"
+  }
+}
